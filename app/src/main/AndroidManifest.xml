@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cricketapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AtnNewsTvActivity"></activity>
+        <activity android:name=".GTVActivity" />
+        <activity android:name=".BanglaVisionActiviy" />
+        <activity
+            android:name=".ChanneliTvActivity"
+            android:label="চ্যানেল আই লাইভ" />
+        <activity
+            android:name=".AboutCompanyActivity"
+            android:label="কোম্পানী সম্পর্কে" />
+        <activity
+            android:name=".StadiumActivity"
+            android:label="স্টেডিয়াম পরিচিতি" />
+        <activity android:name=".StatisticsActivity" />
+        <activity
+            android:name=".LiveTvActivity"
+            android:label="লাইভ টিভি" />
+        <activity
+            android:name=".LiveScoreActivity"
+            android:label="লাইভ স্কোর আপডেট" />
+        <activity android:name=".WestTeamMembers" />
+        <activity
+            android:name=".BdTeamMembers"
+            android:label="বাংলাদেশ দল" />
+        <activity
+            android:name=".TeamMembers"
+            android:label="দলের সদস্য পরিচিতি" />
+        <activity
+            android:name=".DateTime"
+            android:label="সময়, ভেনু এবং তারিখ" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

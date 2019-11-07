@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ওয়েস্ট ইন্ডিজ সিরিজ ২০১৯</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="bdwest">
+
+        সময়ঃ বিডিঃ ৯.৩০PM এবং উইঃ ১০.৩০AM \n
+        তারিখঃ নভেম্বর ২২, ২০১৯; দিনঃ বৃহস্পতিবার \n
+        যহুর আহমেদ চোধুরী স্টেডিয়াম, চিটাগাং
+
+    </string>
+    <string name="livescoreActivityString">
+
+        আমরা, গ্রিনসফট টিম, লাইভ আপডেট অপশনের জন্য কাজ করছি । খুব শিগ্রই লাইভ আপডেট অপশন কাজ করবে! নিয়মিত আপডেট চেক করুন। ধন্যবাদ!
+
+    </string>
+
+    <string name="testRecordStringTitle">
+
+        টেস্ট খেলায় রেকর্ড সমূহ (২০০১ সাল থেকে)
+
+    </string>
+    <string name="testRecordStringDescription">
+       <b>মোটঃ</b>১৪টি খেলা\n\n
+       <b>ওয়েস্ট ইন্ডিজ জয়ীঃ</b>১০টি খেলা\n\n
+       <b>বাংলাদেশ জয়ীঃ</b>২টি খেলা\n\n
+       <b>ফলাফল হয়নিঃ</b>২টি খেলা\n\n
+       <b>প্রথম খেলা:</b>1st Test at Dhaka - Dec 8-10, 2002 - (Ban 139 and 87; WI 536), West Indies won by an innings and 310 runs\n\n
+        <b>শেষ খেলা:</b>শ২st Test at Jamaica - Dec 12-14, 2018 - West Indies won by 166 runs (WI 354 and 126; Ban 149 and a68)
+    </string>
+
+
+    <string name="shereStaduimString">
+
+        <b>The Sher-e-Bangla National Cricket Stadium (SBNCS; Bengli: শের-ই বাংলা জাতীয় ক্রিকেট স্টেডিয়াম),</b> also called Mirpur Stadium, is a cricket Ground in Dhaka, the capital of bangladesh. Ground holds approximately 25000 people and is named for the bengali statesman. A.k Fazlul Huq. The ground was originally constructed for footbal in the late 1980s, and first hosted matches at the 1987 Asian club Championship
+
+    </string>
+
+    <string name="stadiumOficialText">
+
+        <b>টেষ্ট খেলাঃ</b>২৫মে ২০০৭ বিপক্ষ দল ইন্ডিয়া\n
+        <b>একদিনের খেলাঃ</b>১৮ই ডিসেম্বর ২০০৫ বিপক্ষ দল স্কটল্যান্ড\n
+        <b>টি২০ খেলাঃ</b>১১ই অক্টবর বিপক্ষ দল ওয়েষ্ট ইন্ডিজ\n
+
+
+    </string>
+
+    <string name="officialTextTwo">
+
+        মোট টেষ্ট খেলা >> ১৮\n
+        মোট একদিনের খেলা >> ১০৭\n
+        মোট টি ২০ খেলা >> ৩৭\n
+
+
+    </string>
+
+</resources>
+

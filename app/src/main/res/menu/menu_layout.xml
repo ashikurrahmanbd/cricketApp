@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="লাইভ টিভি"
+            android:id="@+id/liveTVId"
+            android:icon="@drawable/live_two"
+            />
+
+        <item
+            android:title="পরিসংখ্যান"
+            android:id="@+id/statisticsId"
+            android:icon="@drawable/chart_two"
+            />
+
+        <item
+            android:title="লাইভ স্কোর"
+            android:id="@+id/liveScoreId"
+            android:icon="@drawable/score_two"
+            />
+
+        <item
+            android:title="বাংলাদেশ দল"
+            android:id="@+id/bdteamsId"
+            android:icon="@drawable/team_two"
+            />
+
+        <item
+            android:title="ওইয়েস্টিন্ডিজ দল"
+            android:id="@+id/oistindijTeamId"
+            android:icon="@drawable/team_two"
+
+            />
+
+        <item
+            android:title="খেলার তারিখ"
+            android:id="@+id/dateTimeId"
+            android:icon="@drawable/date_two"
+
+            />
+
+    </group>
+
+
+
+    <item android:title="Spread Your Love on Green soft">
+        <menu>
+
+            <item
+                android:title="শেয়ার করুন"
+                android:id="@+id/shareId"
+                android:icon="@drawable/share_two"
+                />
+
+            <item
+                android:title="রেটিং দিন"
+                android:id="@+id/ratingId"
+                android:icon="@drawable/star_two"
+                />
+
+            <item
+                android:title="কোম্পানী সম্পর্কে"
+                android:id="@+id/aboutCompanyId"
+                android:icon="@drawable/about"
+
+                />
+
+            <item
+                android:title="এক্সিট এবং ত্যাগ"
+                android:id="@+id/exitId"
+                android:icon="@drawable/logout"
+
+                />
+
+        </menu>
+    </item>
+
+</menu>
